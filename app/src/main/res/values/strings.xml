@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SPFOODS</string>
+    
+    <string-array name="cuisine_types">
+        <item>DIMSUM</item>
+        <item>NOODLES</item>
+        <item>PASTERY</item>
+        <item>SOUP</item>
+        <item>BURGER</item>
+        <item>FRIEDNOODLES</item>
+        <item>SHAWARMA</item>
+        <item>HOTDOG</item>
+    </string-array>
+
+    
 </resources>
