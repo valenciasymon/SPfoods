@@ -12,5 +12,24 @@
         <item>HOTDOG</item>
     </string-array>
 
+    <string-array name="all_stores">
+        <item>aaa_food_hub</item>
+        <item>alibaba</item>
+        <item>charay_icecream_station</item>
+        <item>gaerlan_snackhouse</item>
+        <item>geros_foodcart</item>
+        <item>grannys_foodcorner</item>
+        <item>happiness_foodkiosk</item>
+        <item>hotto_food_stall</item>
+        <item>jdj_dimsum_product</item>
+        <item>jfc</item>
+        <item>jsps_food_court</item>
+        <item>khay_sa_wrap</item>
+        <item>patatas_ni_mangkulas</item>
+        <item>rannez</item>
+        <item>franclark_foods</item>
+        <item>jos_congeeville</item>
+    </string-array>
+
     
 </resources>
